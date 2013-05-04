@@ -1,0 +1,32 @@
+[
+    {
+        "project": "CyanogenMod",
+        "repository": "android_device_samsung_smdk4412-common",
+        "target_path": "device/samsung/smdk4412-common",
+        "branch": "cm-10.1"
+    },
+    {
+        "project": "CyanogenMod",
+        "repository": "android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
+        "branch": "cm-10.1"
+    },
+    {
+        "project": "CyanogenMod",
+        "repository": "android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+        "branch": "cm-10.1"
+    },
+    {
+        "project": "CyanogenMod",
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch": "cm-10.1"
+    },
+    {
+        "project": "Gerrett84",
+        "repository": "android_vendor_samsung_n7000",
+        "target_path": "vendor/samsung",
+        "branch": "jellybean-mr1"
+    }
+]
